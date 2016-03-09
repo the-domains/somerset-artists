@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Somerset Artists]]></title>
         <description><![CDATA[Somerset Artists]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/somerset-artists/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 00:38:14 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 09 Mar 2016 00:43:32 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/somerset-artists/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b1e21245-0b74-4ce0-90a7-c3d619393117.jpg">]]></description>
-            <link>undefinedjuliet-harkness/index.html</link>
+            <link>https://thegrid.ai/somerset-artists/juliet-harkness/index.html</link>
             <guid isPermaLink="false">ec9d0225-4b60-459b-a3c9-5b34f9f0f186</guid>
-            <pubDate>Wed, 09 Mar 2016 00:38:13 GMT</pubDate>
+            <pubDate>Wed, 09 Mar 2016 00:43:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
