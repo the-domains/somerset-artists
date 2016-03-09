@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: Juliet Harkness
-datePublished: '2016-03-09T00:43:01.356Z'
-dateModified: '2016-03-09T00:42:53.518Z'
+datePublished: '2016-03-09T00:47:05.888Z'
+dateModified: '2016-03-09T00:47:01.927Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-09-juliet-harkness.md
@@ -23,7 +23,7 @@ _type: Article
 
 ---
 Juliet Harkness
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b1e21245-0b74-4ce0-90a7-c3d619393117.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d2325be69348a856a7bb0580b6e9b3a105549437.jpg)
 
 From Triscombe Stone
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e53d0fc8-b36b-4dbc-8f36-e4e71e1300cf.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a7f04e42aa9a34bdb5ad5b2855140e8898ede37a.jpg)
