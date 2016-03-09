@@ -1,0 +1,28 @@
+name: Somerset Artists
+favicon: null
+layout_spectrum: 0.7890826710499823
+typography_spectrum: 0.9222487537190318
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.33366143167950213
+  lightness: 0.01950192148797214
+  saturation: 0.4299215874634683
+  rhythmicContrast: 0.8674810843076557
+purpose: []
